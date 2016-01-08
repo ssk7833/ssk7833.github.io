@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /blog/css/
+Disallow: /blog/js/
+Disallow: /blog/fancybox/
+Allow: /blog/
+Sitemap: https://ssk7833.github.io/blog/sitemap.xml
