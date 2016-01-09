@@ -1,6 +1,5 @@
 User-agent: *
 Allow: /blog/
-Disallow: google46733b78c0cf3774.html
 Disallow: /blog/css/
 Disallow: /blog/js/
 Disallow: /blog/fancybox/
